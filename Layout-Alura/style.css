@@ -60,27 +60,25 @@ body {
 
 /* Container 2: */
 .container-2 {  
-    align-items: center;
+    align-content: center;
     justify-content: center;
     margin-top: 20px;
     display: flex;
 }
 
 .computer {
-    width: 500px;
+    width: 550px;
+    padding-top: 100px;
+    display: flex;
+    margin-bottom: 100px;
 }
 
-.phone {
-    width: 150px;
-    position: absolute;
-    top: 1510px;
-    left: 620px;
-}
+
 
 .conteudo {
-    align-items: center;
+    align-content: center;
     justify-content: center;
-    margin-left: 100px;
+    margin-left: 120px;
 }
 
 .h1-assista {
@@ -183,10 +181,13 @@ body {
 
 .footer-image{
     display: flex;
-    align-items: center;
+    align-content: center;
     justify-content: center;
-    margin-left: 800px;
+    margin-left: 1020px;
     margin-top: 50px;
+    margin-bottom: 50px;
+    
+
 }
 
 .menu {
