@@ -163,22 +163,29 @@ body {
     margin-right: 60px;
 }
 
+.div-imagem-rodape {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 100px; 
+}
+
 .imagem-rodape {
     width: 1300px;
-    margin-left: 190px;
 }
 
 .footer {
     background-color: #00030c;
     padding: 20px;
     margin-top: 100px;
+    margin-left: 100px;
 }
 
 .footer-image{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 750px;
+    margin-left: 800px;
     margin-top: 50px;
 }
 
