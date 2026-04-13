@@ -10,6 +10,7 @@ body {
     color: white;
     font-family: 'Arial', sans-serif;
     display: block;
+    margin: auto;
 }
 
 .banner {
@@ -62,7 +63,7 @@ body {
 .container-2 {  
     align-content: center;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 200px;
     display: flex;
 }
 
@@ -72,8 +73,6 @@ body {
     display: flex;
     margin-bottom: 100px;
 }
-
-
 
 .conteudo {
     align-content: center;
@@ -128,7 +127,7 @@ body {
 .container-4 {
     align-items: center;
     justify-content: center;
-    margin-top: 250px;
+    margin-top: 400px;
     display: flex;
     margin-right: 60px;
 }
@@ -156,8 +155,7 @@ body {
 .container-5 {
     align-items: center;
     justify-content: center;
-    margin-top: 250px;
-
+    margin-top: 450px;
     margin-right: 60px;
 }
 
