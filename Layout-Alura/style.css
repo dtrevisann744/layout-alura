@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+   
 }
 
 /* Container 1: */
@@ -9,8 +9,8 @@ body {
     background-color: #00030c;
     color: white;
     font-family: 'Arial', sans-serif;
-    display: block;
-    margin: auto;
+
+    
 }
 
 .banner {
@@ -34,7 +34,8 @@ body {
 .titulo-principal {
     text-align: center;
     max-width: 700px;
-    margin: 0 auto;   
+    margin: 0 auto;  
+     
 }
 
 .alura-logo {
@@ -63,12 +64,12 @@ body {
 .container-2 {  
     align-content: center;
     justify-content: center;
-    margin-top: 200px;
+    margin-top: 0px;
     display: flex;
 }
 
 .computer {
-    width: 550px;
+    width: 600px;
     padding-top: 100px;
     display: flex;
     margin-bottom: 100px;
@@ -95,7 +96,6 @@ body {
 .container-3 {
     align-items: center;
     justify-content: center;
-    margin-top: 200px;
     display: flex;
     margin-right: 60px;
 }
@@ -119,7 +119,7 @@ body {
 }
 
 .tela {
-    width: 550px;
+    width: 590px;
     margin-left: 120px;
 }
 
@@ -137,7 +137,7 @@ body {
 }
 
 .notebook {
-    width: 580px;
+    width: 650px;
 }
 
 .titulo1 {
@@ -167,7 +167,7 @@ body {
 }
 
 .imagem-rodape {
-    width: 1300px;
+    width: 1500px;
 }
 
 .footer {
@@ -184,8 +184,6 @@ body {
     margin-left: 1020px;
     margin-top: 50px;
     margin-bottom: 50px;
-    
-
 }
 
 .menu {
