@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-   
+    
 }
 
 /* Container 1: */
@@ -9,8 +9,6 @@ body {
     background-color: #00030c;
     color: white;
     font-family: 'Arial', sans-serif;
-
-    
 }
 
 .banner {
@@ -64,7 +62,6 @@ body {
 .container-2 {  
     align-content: center;
     justify-content: center;
-    margin-top: 0px;
     display: flex;
 }
 
