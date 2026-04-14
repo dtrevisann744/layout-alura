@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    
+    box-sizing: border-box;
 }
 
 /* Container 1: */
@@ -9,17 +9,21 @@ body {
     background-color: #00030c;
     color: white;
     font-family: 'Arial', sans-serif;
+        margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .banner {
    background-image: url(imgs/Background.png);
    background-size: cover;
    background-position: center;
-   margin-top: 20px;
-   height: 97.5vh;
-   margin-left: 20px;
-   position: relative;
+   height: 100vh;
+   width: 100%;
+   margin: 0;
 }
+
 .container-principal {
     align-items: center;
     justify-content: center;
@@ -159,8 +163,7 @@ body {
 .div-imagem-rodape {
     display: flex;
     justify-content: center;
-    align-content: center;
-    margin-left: 100px; 
+    align-content: center; 
 }
 
 .imagem-rodape {
@@ -169,18 +172,15 @@ body {
 
 .footer {
     background-color: #00030c;
-    padding: 20px;
-    margin-top: 100px;
-    margin-left: 100px;
+    padding: 22px;
+    margin-top: 120px;
+
 }
 
-.footer-image{
+.footer-image {
     display: flex;
-    align-content: center;
     justify-content: center;
-    margin-left: 1020px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    align-items: center;
 }
 
 .menu {
